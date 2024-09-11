@@ -1,0 +1,3 @@
+
+apt install default-mysql-client-core
+apt -y install libopencv-dev
