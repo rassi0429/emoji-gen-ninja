@@ -28,4 +28,29 @@ ja:
     type: '英字'
     key: 'LinLibertine_RBah'
     name: 'LinLibertine Bold'
-    path: 'en/LinLibertine_RBah.ttf'
+    path: 'ja/LinLibertine_RBah.ttf'
+  - id: 7
+    type: 'JK丸ゴ'
+    key: 'JKMaruGothic'
+    name: 'JK Maru-Gothic M'
+    path: 'ja/JK-Maru-Gothic-M.otf'
+  - id: 8
+    type: 'JK丸ゴ'
+    key: 'Kirugo'
+    name: 'GN-キルゴUかなNB'
+    path: 'ja/GN-KillGothic-U-KanaNB.ttf'
+  - id: 9
+    type: 'memoir'
+    key: 'memoir'
+    name: 'めもわーる'
+    path: 'ja/memoir.otf'
+  - id: 10
+    type: '851tiyayowaku'
+    key: '851tiyayowaku'
+    name: '851チカラヨワク'
+    path: 'ja/851CHIKARA-YOWAKU_002.ttf'
+  - id: 11
+    type: '玉ねぎ楷書激無料版v7改'
+    key: '玉ねぎ楷書激無料版v7改'
+    name: '玉ねぎ楷書激無料版v7改'
+    path: 'ja/玉ねぎ楷書激無料版v7改.ttf'
