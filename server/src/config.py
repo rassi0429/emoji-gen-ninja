@@ -90,4 +90,4 @@ class LocalesConfig():
 
     @property
     def locales(self):
-        return ['ja', 'ko', 'zh-Hans', 'zh-Hant', 'en']
+        return ['ja']
